@@ -1,0 +1,88 @@
+docs/v2-architecture.html
+  s_f8f0d07adf98b4::t_ca6e7bc807abfe 1-314
+interaction-skills/screenshots.md
+  s_f8f0d07adf98b4::t_81b45d190de59f 3-4,6-7,9-14,16-19,21-28,31-58,60-63
+bh
+  s_f8f0d07adf98b4::t_06b607d7a1ce6b 1-36
+pyproject.toml
+  s_f8f0d07adf98b4::t_d8a92a670e6e5e 33
+src/browser_harness/admin.py
+  s_f8f0d07adf98b4::t_7b5d4545946496 702-703
+scripts/serve_design.py
+  s_f8f0d07adf98b4::t_96c5bb1baad7f0 1-314
+DESIGN-V2.md
+  s_f8f0d07adf98b4::t_32721dc582e2c1 1-5,7,14-80,104,151-154,247-262,266-273,281-294,306-358,812,1220-1227,1232-1236,1242-1243,1249-1251,1256-1258,1260,1282-1286,1288,1308-1310,1312-1336,1338-1350,1352,1359,1361,1370-1372,1374-1378
+  s_f8f0d07adf98b4::t_3894b4d232fdf7 263-265,1353-1358
+  s_f8f0d07adf98b4::t_8d92427e9f90bd 441-468
+  s_f8f0d07adf98b4::t_7f76e05d24e63b 1165-1204
+  s_f8f0d07adf98b4::t_78160130780c72 611-641
+  s_f8f0d07adf98b4::t_c1700353b75d0c 105-150
+  s_f8f0d07adf98b4::t_1b2948fe919225 1360,1362-1363,1367-1369
+  s_f8f0d07adf98b4::t_278beb1d570397 155-163,202-239
+  s_f8f0d07adf98b4::t_dfc9f2f56d09ae 164-201
+  s_f8f0d07adf98b4::t_d341bd1dd80557 866,869-871,873,1074,1098-1114,1205-1219
+  s_f8f0d07adf98b4::t_6f9a9c21b9405f 1115-1131
+  s_f8f0d07adf98b4::t_eb399ee3950f3a 1132-1164
+  s_f8f0d07adf98b4::t_17a1021760f123 1228-1231,1244-1248,1253
+  s_f8f0d07adf98b4::t_16805265e21310 553,672-706,1240
+  s_f8f0d07adf98b4::t_18e27d6a763b8e 240-246,1364-1366
+  s_f8f0d07adf98b4::t_9e67820a4c67c4 359,362-428
+  s_f8f0d07adf98b4::t_8d7342e6204c47 81-103
+  s_f8f0d07adf98b4::t_824411d07f7b03 8-13
+  s_f8f0d07adf98b4::t_104c37d6869a89 519,521-522,524-552,554-596,642-671,707-756,758-795,815,844,851,865,1252
+  s_f8f0d07adf98b4::t_1ce8b3177ad1b9 874-1072
+  s_f8f0d07adf98b4::t_bbfc59f10d2484 501-518,520,523,757,796-811
+  s_f8f0d07adf98b4::t_3cf4ec008da516 1259,1261-1281,1287,1289-1307
+  s_f8f0d07adf98b4::t_4e384d81171727 274-280
+  s_f8f0d07adf98b4::t_b0ece40e6368cb 6,360-361,429-440,469-500,1254-1255,1311,1337,1351,1373
+  s_f8f0d07adf98b4::t_b903c8800b2726 813-814,816-843,845-850,852-864
+  s_f8f0d07adf98b4::t_d13c316edae9b1 295-305
+  s_f8f0d07adf98b4::t_9a29e82617b6d4 1239
+  s_f8f0d07adf98b4::t_d3766d289fcc70 872,1073,1075-1097
+  s_f8f0d07adf98b4::t_a5e54d3c228b13 867-868
+  s_f8f0d07adf98b4::t_0d98cd4587df4e 597-610,1237-1238,1241
+docs/skills-plugin-system.md
+  s_f8f0d07adf98b4::t_8eb4155f5b8538 1-274
+src/browser_harness/helpers.py
+  s_f8f0d07adf98b4::t_3303ca6f6c3b96 266
+  s_f8f0d07adf98b4::t_452415e79e9415 282-290,292-295,299-304,307,310,314,316-322
+  s_f8f0d07adf98b4::t_8010e09f4b1df4 212
+  s_f8f0d07adf98b4::t_8eb4ee6759d7ae 277
+  s_f8f0d07adf98b4::t_6f59ed14056dec 291,296-298,305-306,308-309
+  s_f8f0d07adf98b4::t_b19a03a7fbf099 6
+  s_f8f0d07adf98b4::t_57395dbc5d6c18 167-171,178-182
+  s_f8f0d07adf98b4::t_c8e75bae2d04b2 43-51,60,62-63
+  s_f8f0d07adf98b4::t_cef5a3d57cd066 159-166,172-177,183-186,189
+  s_f8f0d07adf98b4::t_532ffb17c47e00 311-313
+  s_f8f0d07adf98b4::t_c225dadab68348 558
+src/browser_harness/mini.py
+  s_f8f0d07adf98b4::t_10d0dbfc25d56c 1-106,108,110,112-113,115-121,123-330
+  s_f8f0d07adf98b4::t_d5871f75bc647e 107,109,111,114,122
+src/browser_harness/_ipc.py
+  s_f8f0d07adf98b4::t_a0c090a7fe6cd2 1-7
+  s_f8f0d07adf98b4::t_53346bb8cc1723 82
+  s_f8f0d07adf98b4::t_7b8dd3d629da8e 31
+  s_f8f0d07adf98b4::t_f66c9f84dadde6 177
+  s_f8f0d07adf98b4::t_507b44f3cf081b 41-44
+tests/unit/test_helpers.py
+  s_f8f0d07adf98b4::t_0bf2073a7dbe24 12-14,16-22,24-26,29-34,37-63
+src/browser_harness/__init__.py
+  s_f8f0d07adf98b4::t_43f71cb700f60e 3-5,11-13,15-16,18
+  s_f8f0d07adf98b4::t_75adfab24472b1 6-10,14,17,19-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "0ec8e744c1915eda0b7e029149de22ed7cf87355",
+  "prompts": {},
+  "sessions": {
+    "s_f8f0d07adf98b4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b753352-16c0-4be9-a2e8-463830d23ce3",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Enes Poyraz <epoyraz.eth@googlemail.com>"
+    }
+  }
+}
