@@ -1,0 +1,25 @@
+tests/unit/test_helpers.py
+  s_46446841dd770e::t_d4256807a810db 162
+  s_46446841dd770e::t_56001c99699be5 199-211
+  s_46446841dd770e::t_83ea9890d8fbac 157-158,161,163-164,166-168,171-175,177-183,186-187
+src/browser_harness/helpers.py
+  s_46446841dd770e::t_f8118084a778da 226
+  s_46446841dd770e::t_bb893505115794 193-201
+  s_46446841dd770e::t_4873e8271e3d3a 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "6da4bbad6702fa18f2f293a9872dcf349ad387ff",
+  "prompts": {},
+  "sessions": {
+    "s_46446841dd770e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4a32d844-91bd-4d42-be09-e310dda3dba6",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Enes Poyraz <epoyraz.eth@googlemail.com>"
+    }
+  }
+}
