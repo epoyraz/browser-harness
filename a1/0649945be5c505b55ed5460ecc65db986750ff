@@ -1,0 +1,22 @@
+src/browser_harness/run.py
+  s_3ff6b9de5320b2::t_b50ee5f452b5a8 208,217-218,240-254,281
+tests/unit/test_run.py
+  s_3ff6b9de5320b2::t_b50ee5f452b5a8 28-29,80,91-97
+  s_3ff6b9de5320b2::t_8e46d677dc0920 98-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "a10649945be5c505b55ed5460ecc65db986750ff",
+  "prompts": {},
+  "sessions": {
+    "s_3ff6b9de5320b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04f8e-b539-7ae3-80c7-c30bedb10eb4",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Enes Poyraz <epoyraz.eth@googlemail.com>"
+    }
+  }
+}
