@@ -1,0 +1,41 @@
+src/browser_harness/helpers.py
+  s_46446841dd770e::t_063d08ff17371f 69
+  s_46446841dd770e::t_324da419f1cbf0 52-58
+tests/unit/test_helpers.py
+  s_46446841dd770e::t_400b375ab51cbd 4
+  s_46446841dd770e::t_3f9d46eec59f25 52-65
+src/browser_harness/daemon.py
+  s_46446841dd770e::t_6f560f698c23de 718
+  s_46446841dd770e::t_5764728ebccd55 637
+  s_46446841dd770e::t_1c9029655dcbc9 745-746
+  s_46446841dd770e::t_53d70838087825 750,765,782
+  s_46446841dd770e::t_815b84bc88e4bb 753,758
+  s_46446841dd770e::t_28c6dc42fcfa82 779
+  s_46446841dd770e::t_ee1877ed34ab6e 796
+  s_46446841dd770e::t_7ddf21a7865711 388-391,393-404
+  s_46446841dd770e::t_900eb1fd7d0c82 658,666
+  s_46446841dd770e::t_18afd0b9e227e0 732
+  s_46446841dd770e::t_59fabc3c007426 392
+  s_46446841dd770e::t_cdc214c5b2460e 724
+  s_46446841dd770e::t_9e6b9dc4e8a407 654,662
+tests/unit/test_daemon.py
+  s_46446841dd770e::t_d7c36f9ad2b75a 55
+  s_46446841dd770e::t_b4dd57be40f624 773,777-789
+  s_46446841dd770e::t_8e7424b350db9f 346
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "6dafee241d0b5c41394f0433c510cc08d378fe3e",
+  "prompts": {},
+  "sessions": {
+    "s_46446841dd770e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4a32d844-91bd-4d42-be09-e310dda3dba6",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Enes Poyraz <epoyraz.eth@googlemail.com>"
+    }
+  }
+}
