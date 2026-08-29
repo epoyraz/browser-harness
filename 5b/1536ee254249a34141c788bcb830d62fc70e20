@@ -1,0 +1,45 @@
+src/browser_harness/helpers.py
+  s_46446841dd770e::t_063d08ff17371f 69
+  s_46446841dd770e::t_324da419f1cbf0 52-58
+tests/unit/test_daemon.py
+  s_46446841dd770e::t_d7c36f9ad2b75a 56
+  s_46446841dd770e::t_8e7424b350db9f 347
+  s_46446841dd770e::t_b4dd57be40f624 774,778-784,786-787,789-792
+  s_46446841dd770e::t_e4d54302f651e8 785,788
+  s_46446841dd770e::t_af4ebebc21ce40 4
+src/browser_harness/daemon.py
+  s_46446841dd770e::t_900eb1fd7d0c82 660,668
+  s_46446841dd770e::t_5764728ebccd55 639
+  s_46446841dd770e::t_a17d25b4eb1ac5 395,398-399
+  s_46446841dd770e::t_ee1877ed34ab6e 798
+  s_46446841dd770e::t_28c6dc42fcfa82 781
+  s_46446841dd770e::t_9e6b9dc4e8a407 656,664
+  s_46446841dd770e::t_69d6acbc2611ee 11
+  s_46446841dd770e::t_59fabc3c007426 393
+  s_46446841dd770e::t_6f560f698c23de 720
+  s_46446841dd770e::t_cdc214c5b2460e 726
+  s_46446841dd770e::t_1c9029655dcbc9 747-748
+  s_46446841dd770e::t_53d70838087825 752,767,784
+  s_46446841dd770e::t_815b84bc88e4bb 755,760
+  s_46446841dd770e::t_18afd0b9e227e0 734
+  s_46446841dd770e::t_7ddf21a7865711 389-392,394,396-397,400-406
+tests/unit/test_helpers.py
+  s_46446841dd770e::t_3f9d46eec59f25 52-65
+  s_46446841dd770e::t_400b375ab51cbd 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "5b1536ee254249a34141c788bcb830d62fc70e20",
+  "prompts": {},
+  "sessions": {
+    "s_46446841dd770e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4a32d844-91bd-4d42-be09-e310dda3dba6",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
