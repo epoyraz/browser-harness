@@ -1,0 +1,21 @@
+src/browser_harness/helpers.py
+  s_46446841dd770e::t_3406cc49480c7a 147-149,151-154
+tests/unit/test_helpers.py
+  s_46446841dd770e::t_167640b8f2fe47 86-87,89,96-97,99-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "9c689bdda058bd8c3218935d3daf203f6c66b63f",
+  "prompts": {},
+  "sessions": {
+    "s_46446841dd770e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4a32d844-91bd-4d42-be09-e310dda3dba6",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Enes Poyraz <epoyraz.eth@googlemail.com>"
+    }
+  }
+}
