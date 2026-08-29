@@ -1,0 +1,28 @@
+SKILL.md
+  s_46446841dd770e::t_74bfead033e88a 28-30
+tests/unit/test_run.py
+  s_46446841dd770e::t_cec31eb8d72394 24-77
+src/browser_harness/run.py
+  s_46446841dd770e::t_5890de9615f091 304
+  s_46446841dd770e::t_a4e6772ffd93fc 264-265
+  s_46446841dd770e::t_6f74f34a4aaa95 1
+  s_46446841dd770e::t_e1ba0c5ae14784 32
+  s_46446841dd770e::t_05d207a1493d23 195-196,198,201-202,208,211-215,218-222
+  s_46446841dd770e::t_45b48131a9b814 223
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "81c058f073c8238fb5db1a5c3c79b7591fede5ca",
+  "prompts": {},
+  "sessions": {
+    "s_46446841dd770e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4a32d844-91bd-4d42-be09-e310dda3dba6",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Enes Poyraz <epoyraz.eth@googlemail.com>"
+    }
+  }
+}
