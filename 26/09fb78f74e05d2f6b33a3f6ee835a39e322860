@@ -1,0 +1,25 @@
+src/browser_harness/daemon.py
+  s_3ff6b9de5320b2::t_b2e76def34d32b 403-404,606-610,636-660
+src/browser_harness/helpers.py
+  s_3ff6b9de5320b2::t_b2e76def34d32b 146,149-150,152-158,180,185,189-192,194-196
+tests/unit/test_helpers.py
+  s_3ff6b9de5320b2::t_9e28f0aa8765db 82-83,86-99,107,117,125,132,139,153-155,164,166-186
+tests/unit/test_daemon.py
+  s_3ff6b9de5320b2::t_9e28f0aa8765db 77-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "2609fb78f74e05d2f6b33a3f6ee835a39e322860",
+  "prompts": {},
+  "sessions": {
+    "s_3ff6b9de5320b2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04f8e-b539-7ae3-80c7-c30bedb10eb4",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Enes Poyraz <epoyraz.eth@googlemail.com>"
+    }
+  }
+}
