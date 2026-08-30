@@ -1,0 +1,23 @@
+SKILL.md
+  s_46446841dd770e::t_63355c338ee4c0 29-30
+src/browser_harness/run.py
+  s_46446841dd770e::t_28ff637a527fe0 212-216,219-223,226-227
+tests/unit/test_run.py
+  s_46446841dd770e::t_b9854c9562e826 33,61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "3e550c2bd55f14dc8856192267aee0445eb797c7",
+  "prompts": {},
+  "sessions": {
+    "s_46446841dd770e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4a32d844-91bd-4d42-be09-e310dda3dba6",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Enes Poyraz <epoyraz.eth@googlemail.com>"
+    }
+  }
+}
